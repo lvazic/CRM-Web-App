@@ -1,0 +1,41 @@
+{
+   "Result":"OK",
+   "Records":[
+      {
+         "fid":"4",
+         "naziv":"Nova",
+         "websajt":"rs.rs",
+         "potencijal":"srednji",
+         "napomene":"",
+         "delatnost":"Delatnost 2",
+         "dodao":"Luka Va\u017ei\u0107"
+      },
+      {
+         "fid":"5",
+         "naziv":"Proba",
+         "websajt":"",
+         "potencijal":"visok",
+         "napomene":"",
+         "delatnost":"Delatnost 2",
+         "dodao":"Luka Va\u017ei\u0107"
+      },
+      {
+         "fid":"6",
+         "naziv":"Nova kompanija",
+         "websajt":"rs.rs",
+         "potencijal":"srednji",
+         "napomene":"",
+         "delatnost":"Delatnost 3",
+         "dodao":"Luka Va\u017ei\u0107"
+      },
+      {
+         "fid":"7",
+         "naziv":"aaa",
+         "websajt":"rs.rs",
+         "potencijal":"visok",
+         "napomene":"",
+         "delatnost":"Delatnost 2",
+         "dodao":"Luka Va\u017ei\u0107"
+      }
+   ]
+}
